@@ -1,0 +1,28 @@
+# Python cache/bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE/editor
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+
+# Local env/secrets
+.env
+.env.*
+
+# Logs and coverage
+*.log
+.coverage
+coverage/
+htmlcov/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
