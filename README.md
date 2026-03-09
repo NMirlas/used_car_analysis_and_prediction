@@ -185,6 +185,4 @@ The current dataset does not include some high-impact pricing features:
 - accident history
 
 Including these features can improve model quality.
-
-
 # used_car_analysis_and_prediction
